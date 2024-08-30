@@ -1,0 +1,3 @@
+app/__init__.py
+Contenu : Ce fichier est vide mais nécessaire pour indiquer à Python que le répertoire app est un package.
+Objectif : Permettre l'importation des modules contenus dans ce répertoire.
